@@ -6,7 +6,7 @@
 - 開發環境 : Quartus 13.1
   
 ## 照片
-  ![game](https://user-images.githubusercontent.com/122383629/211610812-e33b9299-2bb5-463a-83ac-d4cdb30b7008.jpg)
+  ![game](./images/game.jpg)
   
 ## 功能說明
 a. 七段顯示器顯示累計得分數 \
@@ -19,10 +19,10 @@ g. 勝利時會在8X8 RGB顯示WIN，輸了會顯示LOSE \
 h. 打到磚塊會發出聲音 
 
 ## WIN
-  ![win](https://user-images.githubusercontent.com/122383629/211617781-c5b47757-f7bc-4e7e-bce1-989e95473028.jpg)  
+  ![win](./images/win.jpg)  
   
 ## LOSE
-  ![lose](https://user-images.githubusercontent.com/122383629/211617843-0a6da537-8963-4b11-9c34-2dc9f0782a2d.jpg)
+  ![lose](./images/lose.jpg)
   
 ## 使用到的硬體裝置
 - 按壓鍵 × 3：左右移動、發射
