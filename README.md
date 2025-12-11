@@ -1,4 +1,4 @@
-# FPGA-Breackout_Clone
+# FPGA-Breakout_Clone
 用Verilog寫打磚塊遊戲執行在FPGA上
 
 ## 語言環境
